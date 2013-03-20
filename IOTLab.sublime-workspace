@@ -1,0 +1,1453 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"se",
+				"self_fired"
+			],
+			[
+				"sel",
+				"selectedIndex"
+			],
+			[
+				"tur",
+				"turn_off"
+			],
+			[
+				"img",
+				"img_light"
+			],
+			[
+				"tog",
+				"toggle"
+			],
+			[
+				"to",
+				"toggle"
+			],
+			[
+				"该用",
+				"该用户已存在，但是不确定是否为同一用户，需要检查密码"
+			],
+			[
+				"js",
+				"json_return"
+			],
+			[
+				"sql",
+				"sql_insert"
+			],
+			[
+				"pwd",
+				"pwdMd5"
+			],
+			[
+				"res",
+				"resource_id_array"
+			],
+			[
+				"add",
+				"addTab"
+			],
+			[
+				"In",
+				"Index"
+			],
+			[
+				"cla",
+				"class_id"
+			],
+			[
+				"cl",
+				"classes"
+			],
+			[
+				"edi",
+				"editor"
+			],
+			[
+				"hi",
+				"history"
+			],
+			[
+				"pro",
+				"product"
+			],
+			[
+				"ac",
+				"action_code"
+			],
+			[
+				"da",
+				"datagrid"
+			],
+			[
+				"gri",
+				"grid1"
+			],
+			[
+				"cod",
+				"codes_array"
+			],
+			[
+				"jso",
+				"json_decode"
+			],
+			[
+				"ro",
+				"row_product"
+			],
+			[
+				"o",
+				"onclick"
+			],
+			[
+				"sys",
+				"system_id"
+			],
+			[
+				"us",
+				"user_id"
+			],
+			[
+				"pie",
+				"pies_data_array"
+			],
+			[
+				"is_a",
+				"is_array"
+			],
+			[
+				"ref",
+				"refresh_grid"
+			],
+			[
+				"ass",
+				"assign"
+			],
+			[
+				"va",
+				"value"
+			],
+			[
+				"sy",
+				"system"
+			],
+			[
+				"toa",
+				"total_action_work_capability"
+			],
+			[
+				"tot",
+				"total_action_work_capability"
+			],
+			[
+				"com",
+				"company"
+			],
+			[
+				"lis",
+				"list"
+			],
+			[
+				"getsy",
+				"get_system_id"
+			],
+			[
+				"produ",
+				"product_id"
+			],
+			[
+				"colu",
+				"column_count"
+			],
+			[
+				"data",
+				"data"
+			],
+			[
+				"str",
+				"str_int"
+			],
+			[
+				"getu",
+				"get_user_data_set"
+			],
+			[
+				"his",
+				"history_id"
+			],
+			[
+				"re",
+				"request"
+			],
+			[
+				"rep",
+				"replace"
+			],
+			[
+				"json",
+				"json_decode"
+			],
+			[
+				"use",
+				"user_name"
+			],
+			[
+				"rol",
+				"role_array"
+			],
+			[
+				"tea",
+				"teacher_info_min"
+			],
+			[
+				"che",
+				"check"
+			],
+			[
+				"els",
+				"else"
+			],
+			[
+				"getsys",
+				"get_system_info_by_id"
+			],
+			[
+				"get",
+				"getValue"
+			],
+			[
+				"system",
+				"system_id"
+			],
+			[
+				"actio",
+				"action_cost"
+			],
+			[
+				"arrke",
+				"array_keys"
+			],
+			[
+				"arr",
+				"array_action_fee"
+			],
+			[
+				"pre",
+				"prepare_resource_info"
+			],
+			[
+				"prepa",
+				"prepare_resource_distribution_info"
+			],
+			[
+				"stat",
+				"static"
+			],
+			[
+				"Inv",
+				"InventoryGroup"
+			],
+			[
+				"tra",
+				"trace"
+			],
+			[
+				"dum",
+				"var_dump"
+			],
+			[
+				"lo",
+				"LogisAAction"
+			],
+			[
+				"sa",
+				"save_action_cost_history"
+			],
+			[
+				"rem",
+				"remove_action_from_database"
+			],
+			[
+				"fla",
+				"flag"
+			],
+			[
+				"upd",
+				"update_action_work_capability_to_database"
+			],
+			[
+				"check",
+				"check_if_work_capability_too_small"
+			],
+			[
+				"fl",
+				"flag"
+			],
+			[
+				"remo",
+				"remove_inventory_item_from_database"
+			],
+			[
+				"invo",
+				"inventory_items_array"
+			],
+			[
+				"upda",
+				"update_inventory_item_fee_to_database"
+			],
+			[
+				"inv",
+				"inventory_items_array"
+			],
+			[
+				"addcl",
+				"add_class_to_database"
+			],
+			[
+				"sav",
+				"save_product_action_count_setting_to_database"
+			],
+			[
+				"reset",
+				"reset_pwd_default_to_database"
+			],
+			[
+				"setre",
+				"set_register_user_checked"
+			],
+			[
+				"up",
+				"update_pwd"
+			],
+			[
+				"new",
+				"new_psw"
+			],
+			[
+				"li",
+				"list"
+			],
+			[
+				"setr",
+				"set_result_json"
+			],
+			[
+				"sta",
+				"status"
+			],
+			[
+				"v",
+				"value"
+			],
+			[
+				"sele",
+				"select_result_all_action_count"
+			],
+			[
+				"sqld",
+				"sql_delete_history_action"
+			],
+			[
+				"sqlu",
+				"sql_update"
+			],
+			[
+				"el",
+				"else"
+			],
+			[
+				"state",
+				"state_array"
+			],
+			[
+				"ex",
+				"execute_sql"
+			],
+			[
+				"arra",
+				"array_result"
+			],
+			[
+				"arr_ke",
+				"array_keys"
+			],
+			[
+				"U",
+				"UserManageAction"
+			],
+			[
+				"sqls",
+				"sql_select_users"
+			],
+			[
+				"a",
+				"account"
+			],
+			[
+				"clas",
+				"class_id"
+			],
+			[
+				"get_de",
+				"get_deault_secret"
+			],
+			[
+				"TH",
+				"THINK_USER"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"def",
+				"default_secret"
+			],
+			[
+				"cre",
+				"create"
+			],
+			[
+				"T_",
+				"T_CLASSES"
+			],
+			[
+				"pri",
+				"product_id"
+			],
+			[
+				"nu",
+				"null"
+			],
+			[
+				"get_sy",
+				"get_system_name_by_id"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"pad",
+				"padding-left"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"fi",
+				"filter_by_id"
+			],
+			[
+				"arrfi",
+				"array_filter"
+			],
+			[
+				"all",
+				"all_rows"
+			],
+			[
+				"key",
+				"keyword"
+			],
+			[
+				"no",
+				"node_id"
+			],
+			[
+				"tex",
+				"text"
+			],
+			[
+				"gr",
+				"group"
+			],
+			[
+				"pa",
+				"padding-bottom"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"mar",
+				"margin-left"
+			],
+			[
+				"bor",
+				"border-bottom"
+			],
+			[
+				"padding",
+				"padding-top"
+			],
+			[
+				"border-co",
+				"border-color"
+			],
+			[
+				"bo",
+				"border"
+			],
+			[
+				"na",
+				"nav-command_button"
+			],
+			[
+				"syste",
+				"system_id"
+			],
+			[
+				"sqldel",
+				"sql_delete"
+			],
+			[
+				"le",
+				"length"
+			],
+			[
+				"act",
+				"action_code"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "Lib/Action/IndexAction.class.php",
+			"settings":
+			{
+				"buffer_size": 2597,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "index.php",
+			"settings":
+			{
+				"buffer_size": 836,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "Tpl/default/Index/menu.html",
+			"settings":
+			{
+				"buffer_size": 2186,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "Tpl/default/Index/light1_index.html",
+			"settings":
+			{
+				"buffer_size": 5341,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "Tpl/default/Index/UHFindex.html",
+			"settings":
+			{
+				"buffer_size": 2069,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "Public/tools.js",
+			"settings":
+			{
+				"buffer_size": 185,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "Lib/Action/tools.php",
+			"settings":
+			{
+				"buffer_size": 9082,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "Tpl/default/Index/test.html",
+			"settings":
+			{
+				"buffer_size": 1422,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "Tpl/default/Index/index.html",
+			"settings":
+			{
+				"buffer_size": 3120,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "Conf/config.php",
+			"settings":
+			{
+				"buffer_size": 200,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 58.0,
+		"selected_items":
+		[
+			[
+				"Snippet: com",
+				"Snippet: Comment"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 400.0
+	},
+	"console":
+	{
+		"height": 0.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/program/www/IOTLab/Tpl/default/Index/mindex.html",
+		"/C/program/www/LogisABC/Tpl/default/Index/basic_principle.html",
+		"/C/program/www/LogisABC/Public/easyUI/plugins/jquery.messager.js",
+		"/C/program/www/LogisABC/Public/miniui/themes/default/miniui.css",
+		"/C/program/www/LogisABC/Public/easyUI/themes/default/easyui.css",
+		"/C/program/www/LogisABC/Public/easyUI/themes/icon.css",
+		"/C/program/www/LogisABC/Tpl/default/CostDataHistory/company_cost_data_history_index.html",
+		"/C/program/www/LogisABC/Tpl/default/UserManagement/register_teacher_index.html",
+		"/C/program/www/LogisABC/Tpl/default/UserManagement/teacher_index.html",
+		"/C/program/www/LogisABC/Tpl/default/UserManagement/teacher_index_not_checked.html",
+		"/C/program/www/LogisABC/Tpl/default/LogisA/product_cost_data_history_index.html",
+		"/C/program/www/phpinfo.php",
+		"/C/program/www/LogisABC/Tpl/default/InventoryGroup/inventory_group_for_user_resource_set_index.html",
+		"/C/program/python/ifDemo.py",
+		"/C/program/python/hello.py",
+		"/C/program/www/LogisABC/Public/miniui/miniui.js",
+		"/C/program/www/LogisABC/Tpl/default/InventoryGroup/inventory_group_index_user.html",
+		"/C/Users/ssor/Desktop/Biokey SDK5.0标准版/C#/ZkFingerDemo/bin/Debug/config.xml",
+		"/C/program/www/LogisABC/Lib/Action/UnitTestAction.php",
+		"/C/program/www/LogisABC/Lib/Action/unit_test.php",
+		"/C/program/www/LogisABC/Tpl/default/Index/system_nav_index - 副本.html",
+		"/C/program/www/LogisABC/Lib/Action/class.InventoryResource.php",
+		"/C/program/www/LogisABC/Lib/Action/class.LogisAction.php",
+		"/C/program/www/LogisABC/Public/zTreeStyle/demo.css",
+		"/C/program/go/hello.go",
+		"/C/program/www/LogisABC/Tpl/default/Index/system_nav_index.html",
+		"/C/program/www/LogisABC/Tpl/default/Index/welcome.html",
+		"/C/program/www/LogisABC/Lib/Action/IndexAction.class.php",
+		"/C/program/www/LogisABC/Tpl/default/Index/list_action_final_cost_index.html",
+		"/C/program/www/LogisABC/Public/demo.css",
+		"/C/program/www/LogisABC/Tpl/default/Welcome/product.html",
+		"/C/Users/ssor/Desktop/新建文件夹/960demo.html",
+		"/C/Users/ssor/Desktop/新建文件夹/960demo - 副本.html",
+		"/C/program/www/LogisABC/Tpl/default/Welcome/welcome3.html",
+		"/C/program/www/LogisABC/Tpl/default/UserManagement/left_frame.html",
+		"/C/program/www/LogisABC/Tpl/default/UserManagement/register_user_index - 副本 (2).html",
+		"/C/program/www/LogisABC/Tpl/default/UserManagement/register_user_index.html",
+		"/C/program/www/LogisABC/Tpl/default/Welcome/welcome.html",
+		"/C/Users/ssor/AppData/Roaming/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/C/program/www/LogisABC/Tpl/default/UserManagement/register_user_index - 副本.html",
+		"/C/program/www/LogisABC/Tpl/default/Welcome/welcome - 副本.html",
+		"/C/program/www/LogisABC/Tpl/default/Welcome/welcome2.html",
+		"/C/program/www/LogisABC/Tpl/default/Welcome/product.htm",
+		"/C/program/www/LogisABC/Lib/Action/class.TreeNode.php",
+		"/C/program/www/LogisABC/Tpl/default/Index/index_viewer.html",
+		"/C/program/www/LogisABC/Public/zTreeStyle/zTreeStyle.css",
+		"/C/Users/ssor/Desktop/JQuery zTree v3.5.01/demo/cn/super/left_menuForOutLook.html",
+		"/C/program/www/LogisABC/Public/miniui/themes/icons.css",
+		"/C/Users/ssor/Desktop/JQuery zTree v3.5.01/css/demo.css",
+		"/C/program/www/LogisABC/Lib/Action/action_cost_caculate.php",
+		"/C/Program Files/Sublime Text 2/sublime_text.exe",
+		"/C/program/www/LogisABC/Tpl/default/ProductManagement/list_product_index_user.html",
+		"/C/program/www/LogisABC/Lib/Action/tools.php",
+		"/C/Users/ssor/AppData/Roaming/Sublime Text 2/Packages/User/php.sublime-snippet",
+		"/C/program/www/LogisABC/Tpl/default/Index/transport_costs_set_index.html",
+		"/C/program/www/LogisABC/Tpl/default/Index/base_softwares_html.html",
+		"/C/program/www/LogisABC/Tpl/default/Index/action_work_capability_index.html",
+		"/C/program/www/LogisABC/Lib/Action/ManageAction.class.php",
+		"/C/Users/ssor/AppData/Local/Temp/33389034/33389034.txt",
+		"/C/Users/ssor/AppData/Roaming/Sublime Text 2/Packages/Default/Default (Windows).sublime-keymap",
+		"/C/Users/ssor/AppData/Roaming/Sublime Text 2/Packages/User/Default (Windows).sublime-keymap",
+		"/C/program/www/LogisABC/Tpl/default/Index/inventory_human_resource_used_percent_index.html",
+		"/C/program/www/LogisABC/Tpl/default/Index/inventory_warehouse_used_percent_index.html",
+		"/C/program/www/LogisABC/Tpl/default/Index/inventory_instrument_used_percent_index.html",
+		"/C/program/www/LogisABC/Tpl/default/Index/inventory_material_used_percent_index.html",
+		"/C/program/www/LogisABC/Tpl/default/InventoryManage/inventory_human_resource_select.html",
+		"/C/program/www/LogisABC/Tpl/default/InventoryManage/inventory_instrument_resource_select.html",
+		"/C/program/www/LogisABC/Tpl/default/InventoryManage/inventory_warehouse_resource_select.html",
+		"/C/program/www/LogisABC/Tpl/default/InventoryManage/inventory_material_resource_select.html",
+		"/C/program/www/LogisABC/Tpl/default/InventoryManage/inventory_resource_select.html",
+		"/C/program/www/LogisABC/Tpl/default/LogisA/ActionSetting.html",
+		"/C/program/www/LogisABC/Public/skin.css",
+		"/C/program/www/LogisABC/Tpl/default/Index/set_resource_fee.html",
+		"/C/Users/ssor/AppData/Local/Temp/351445339/351445339.txt",
+		"/C/Users/ssor/AppData/Local/Temp/351397821/351397821.txt",
+		"/C/Users/ssor/Documents/My Knowledge/Plugins/MarkDown/highlight.css",
+		"/C/Users/ssor/AppData/Local/Temp/170142396/170142396.txt",
+		"/C/program/www/LogisABC/Tpl/default/Index/inventory_fee_set.html",
+		"/C/program/www/LogisABC/Tpl/default/Index/inventory_material_resource_fee_set.html",
+		"/C/program/www/LogisABC/Tpl/default/Index/inventory_human_resource_select.html",
+		"/C/program/www/LogisABC/Tpl/default/Index/inventory_warehouse_resource_select.html",
+		"/C/program/www/LogisABC/Tpl/default/Index/inventory_instrument_resource_select.html",
+		"/C/program/www/LogisABC/Tpl/default/Index/inventory_material_resource_select.html",
+		"/C/program/www/LogisABC/Tpl/default/Index/ActionSetting.html",
+		"/C/program/www/LogisABC/Tpl/default/Index/EmployeeWindow.html",
+		"/C/program/www/miniui_php/demo/data/AjaxService.php",
+		"/C/program/www/miniui_php/demo/data/invoke.php",
+		"/C/program/www/InventoryRest/Lib/Action/Inventory/ckProductAction.class.php",
+		"/C/program/www/InventoryRest/Lib/Action/Inventory/InventoryAction.class.php",
+		"/C/program/www/InventoryRest/Lib/Action/IntelligentProduct/boxproduceAction.class.php",
+		"/C/program/www/LogisABC/Tpl/default/Index/inventory_material_resource_set.html",
+		"/C/program/csharp/ZigbeeControler/RFIDReaderControler/bin/Debug/config.xml",
+		"/C/program/www/phpRest/Tpl/default/Monitor/dateValidate.js",
+		"/C/program/www/phpRest/Tpl/default/Monitor/index.html",
+		"/C/program/www/phpRest/Tpl/default/Monitor/showRouteInfo.html",
+		"/C/program/www/phpRest/Tpl/default/Monitor/RouteReplay.js",
+		"/C/program/www/phpRest/Tpl/default/Monitor/setRoutePara.html",
+		"/C/program/www/phpRest/Tpl/default/Monitor/top.html",
+		"/C/program/www/IntelligentClassroom/Conf/config.php",
+		"/C/program/www/IntelligentClassroom/Tpl/default/Index/overview.html",
+		"/C/program/www/IntelligentClassroom/Tpl/default/Index/classroom_state.html",
+		"/C/program/www/IntelligentClassroom/Tpl/default/Index/index.html",
+		"/C/program/www/IntelligentClassroom/Lib/Action/IndexAction.class.php",
+		"/C/program/www/IntelligentClassroom/Lib/Action/ManageAction.class.php",
+		"/C/program/www/IntelligentClassroom/Tpl/default/Index/tree.html",
+		"/C/program/www/IntelligentClassroom/Tpl/default/Index/base_softwares_html.html",
+		"/C/program/www/InventoryRest/Tpl/default/LogiTechBrowser/Index/logiTechSoftwares.html",
+		"/C/program/www/IntelligentClassroom/Tpl/default/Index/logiTechSoftwares.html",
+		"/C/program/www/InventoryRest/Conf/LogiTechBrowser/config.php",
+		"/C/program/www/IntelligentClassroom/index.php",
+		"/C/项目/实验箱/projects/智能货架/SQL.sql",
+		"/D/programs/erlang/data_collector/ebin/config.dat",
+		"/D/programs/erlang/zigbee_event_generator/src/zeg.sublime-project",
+		"/D/programs/erlang/rfid_event_generator/src/gen_event.erl",
+		"/F/Program Files (x86)/erl5.9.1/lib/stdlib-1.18.1/include/ms_transform.hrl",
+		"/D/programs/erlang/rfid_event_generator/src/parser.erl",
+		"/D/programs/erlang/rfid_event_generator/ebin/rfid_event_generator.app",
+		"/D/programs/erlang/udp_transfer/src/ut_store.erl",
+		"/D/programs/erlang/udp_transfer/src/udp_transfer.erl",
+		"/D/programs/erlang/udp_transfer/src/dc_client_mng.erl",
+		"/D/programs/erlang/udp_transfer/ebin/udp_transfer.app",
+		"/D/programs/erlang/data_collector/ebin/data_collector.app",
+		"/D/programs/erlang/data_middle_ware/src/dms_sup.erl",
+		"/D/programs/erlang/data_middle_ware/src/dms_data_receiver.erl",
+		"/D/programs/erlang/data_middle_ware/src/dms_data_receiver_sup.erl",
+		"/D/programs/erlang/data_middle_ware/ebin/data_middleware.app",
+		"/D/programs/erlang/data_middle_ware/src/dms_store.erl",
+		"/D/programs/erlang/data_middle_ware/src/dms_app.erl"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"self_fired",
+			"turn_on",
+			"toggleswitc",
+			"submitForm",
+			"user_name",
+			"username",
+			"redirect_to_main_form",
+			".'/",
+			"array_walk",
+			"value",
+			"action",
+			"variable",
+			"group_array",
+			"array_map",
+			"value",
+			"row",
+			"variable",
+			"list",
+			"array_walk",
+			"array_map",
+			"array_walk",
+			"array_map",
+			"array_walk",
+			"return",
+			"value",
+			"item",
+			"variable",
+			"array_walk",
+			"value",
+			"row",
+			"variable",
+			"select_result_all_action_count",
+			"array_walk",
+			"array_map",
+			"return",
+			"pies_data_array",
+			"value",
+			"item",
+			"variable",
+			"array_action_cost_list",
+			"value",
+			"item",
+			"variable",
+			"array_system_action_cost_list",
+			"array_map",
+			"value",
+			"item",
+			"variable",
+			"array_action_cost_list",
+			"pies_data_array",
+			"array_map",
+			"value",
+			"action_cost",
+			"variable",
+			"array_action_cost_list",
+			"array_map",
+			"return",
+			"value",
+			"action_cost",
+			"variable",
+			"array_action_cost_list",
+			"array_map",
+			"value",
+			"action",
+			"variable",
+			"actions_array",
+			"codes_array",
+			"array_walk",
+			"value",
+			"action",
+			"variable",
+			"actions_array",
+			"array_walk",
+			"value",
+			"action",
+			"variable",
+			"actions_array",
+			"array_walk",
+			"value",
+			"action",
+			"variable",
+			"actions_array",
+			"array_walk",
+			"value",
+			"action",
+			"variable",
+			"actions_array",
+			"array_map",
+			"pies_data_array",
+			"value",
+			"item",
+			"variable",
+			"data",
+			"pies_data_array",
+			"array_map",
+			"array_walk",
+			"value",
+			"item",
+			"variable",
+			"system_product_cost_array",
+			"pies_data_array",
+			"value",
+			"item",
+			"variable",
+			"data",
+			"pies_data_array",
+			"value",
+			"item",
+			"variable",
+			"data",
+			"pies",
+			"value",
+			"item",
+			"variable",
+			"list_data_history",
+			"value",
+			"history",
+			"variable",
+			"history_id_array",
+			"return",
+			"pies_data_array",
+			"value",
+			"item",
+			"variable",
+			"pies_data_array",
+			"array_map",
+			"array_walk",
+			"variable"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 3,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "Lib/Action/IndexAction.class.php",
+					"settings":
+					{
+						"buffer_size": 2597,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								739,
+								751
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 216.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "index.php",
+					"settings":
+					{
+						"buffer_size": 836,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								835,
+								835
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "Tpl/default/Index/menu.html",
+					"settings":
+					{
+						"buffer_size": 2186,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1537,
+								1537
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 580.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "Tpl/default/Index/light1_index.html",
+					"settings":
+					{
+						"buffer_size": 5341,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1212,
+								1212
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 266.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "Tpl/default/Index/UHFindex.html",
+					"settings":
+					{
+						"buffer_size": 2069,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								828,
+								838
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 162.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "Public/tools.js",
+					"settings":
+					{
+						"buffer_size": 185,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								181,
+								181
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "Lib/Action/tools.php",
+					"settings":
+					{
+						"buffer_size": 9082,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2803,
+								2820
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 940.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "Tpl/default/Index/test.html",
+					"settings":
+					{
+						"buffer_size": 1422,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								705,
+								705
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "Tpl/default/Index/index.html",
+					"settings":
+					{
+						"buffer_size": 3120,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								443,
+								443
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "Conf/config.php",
+					"settings":
+					{
+						"buffer_size": 200,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								152,
+								163
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 35.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/C/program/www/IOTLab/Lib/Action/IndexAction.class.php"
+			],
+			[
+				"to",
+				"/C/program/www/IOTLab/Lib/Action/tools.php"
+			],
+			[
+				"top",
+				"/C/program/www/IOTLab/Lib/Action/tools.php"
+			],
+			[
+				"too",
+				"/C/program/www/LogisABC/Lib/Action/tools.php"
+			],
+			[
+				"in",
+				"/C/program/www/LogisABC/Lib/Action/IndexAction.class.php"
+			],
+			[
+				"re",
+				"/C/program/www/LogisABC/Tpl/default/UserManagement/register_user_index.html"
+			],
+			[
+				"we",
+				"/C/program/www/LogisABC/Tpl/default/Welcome/welcome.html"
+			],
+			[
+				"welc",
+				"/C/program/www/LogisABC/Tpl/default/Welcome/welcome.html"
+			],
+			[
+				"uni",
+				"/C/program/www/LogisABC/Lib/Action/UnitTestAction.class.php"
+			],
+			[
+				"ind",
+				"/C/program/www/LogisABC/Lib/Action/IndexAction.class.php"
+			],
+			[
+				"act",
+				"/C/program/www/LogisABC/Tpl/default/LogisA/ActionSetting_user.html"
+			],
+			[
+				"na",
+				"/C/program/www/LogisABC/Tpl/default/Index/system_nav_index.html"
+			],
+			[
+				"lo",
+				"/C/program/www/LogisABC/Lib/Action/LogisAAction.class.php"
+			],
+			[
+				"pro",
+				"/C/program/www/LogisABC/Lib/Action/ProductManagementAction.class.php"
+			],
+			[
+				"cos",
+				"/C/program/www/LogisABC/Lib/Action/CostDataHistoryAction.class.php"
+			],
+			[
+				"produin",
+				"/C/program/www/LogisABC/Tpl/default/ProductManagement/product_index_for_cost_result.html"
+			],
+			[
+				"produ",
+				"/C/program/www/LogisABC/Tpl/default/ProductManagement/product_action_count_setting_index.html"
+			],
+			[
+				"lis",
+				"/C/program/www/LogisABC/Tpl/default/LogisA/list_action_final_cost_index.html"
+			],
+			[
+				"cosda",
+				"/C/program/www/LogisABC/Tpl/default/CostDataHistory/cost_data_history_index.html"
+			],
+			[
+				"lisac",
+				"/C/program/www/LogisABC/Tpl/default/LogisA/list_action_final_cost_index.html"
+			],
+			[
+				"us",
+				"/C/program/www/LogisABC/Lib/Action/UserManagementAction.class.php"
+			],
+			[
+				"cla",
+				"/C/program/www/LogisABC/Lib/Action/ClassManageAction.class.php"
+			],
+			[
+				"cl",
+				"/C/program/www/LogisABC/Lib/Action/ClassManageAction.class.php"
+			],
+			[
+				"user",
+				"/C/program/www/LogisABC/Lib/Action/UserManagementAction.class.php"
+			],
+			[
+				"t",
+				"/C/program/www/LogisABC/Lib/Action/tools.php"
+			],
+			[
+				"fee",
+				"/C/program/www/LogisABC/Tpl/default/InventoryGroup/inventory_group_for_user_resource_fee_set_index.html"
+			],
+			[
+				"inve",
+				"/C/program/www/LogisABC/Tpl/default/InventoryGroup/inventory_group_for_user_resource_set_index.html"
+			],
+			[
+				"admin",
+				"/C/program/www/LogisABC/Tpl/default/ProductManagement/ProductIndex_admin.html"
+			],
+			[
+				"list",
+				"/C/program/www/LogisABC/Tpl/default/LogisA/list_action_final_cost_index.html"
+			],
+			[
+				"produc",
+				"/C/program/www/LogisABC/Tpl/default/ProductManagement/product_action_count_setting_index.html"
+			],
+			[
+				"sq",
+				"/C/program/www/LogisABC/sql.sql"
+			],
+			[
+				"wel",
+				"/C/program/www/LogisABC/Tpl/default/Welcome/welcome.html"
+			],
+			[
+				"s",
+				"/C/program/www/LogisABC/sql.sql"
+			],
+			[
+				"a",
+				"/C/program/www/LogisABC/Tpl/default/LogisA/ActionSetting_admin.html"
+			],
+			[
+				"usem",
+				"/C/program/www/LogisABC/Lib/Action/UserManagementAction.class.php"
+			],
+			[
+				"w",
+				"/C/program/www/LogisABC/Lib/Action/WelcomeAction.class.php"
+			],
+			[
+				"resi",
+				"/C/program/www/LogisABC/Tpl/default/UserManagement/register_user_index.html"
+			],
+			[
+				"use",
+				"/C/program/www/LogisABC/Lib/Action/UserManagementAction.class.php"
+			],
+			[
+				"i",
+				"/C/program/www/LogisABC/Lib/Action/IndexAction.class.php"
+			],
+			[
+				"regi",
+				"/C/program/www/LogisABC/Tpl/default/InventoryGroup/inventory_group_index.html"
+			],
+			[
+				"logi",
+				"/C/program/www/LogisABC/Lib/Action/LogisAAction.class.php"
+			],
+			[
+				"view",
+				"/C/program/www/LogisABC/Tpl/default/ProductManagement/list_product_final_cost_index_viewer.html"
+			],
+			[
+				"lisp",
+				"/C/program/www/LogisABC/Tpl/default/ProductManagement/list_product_final_cost_index.html"
+			],
+			[
+				"inhp",
+				"/C/program/www/LogisABC/Lib/Action/IndexAction.class.php"
+			],
+			[
+				"inviw",
+				"/C/program/www/LogisABC/Tpl/default/Index/index_viewer.html"
+			],
+			[
+				"inph",
+				"/C/program/www/LogisABC/Lib/Action/IndexAction.class.php"
+			],
+			[
+				"welp",
+				"/C/program/www/LogisABC/Lib/Action/WelcomeAction.class.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/D/programs/erlang/zigbee_event_generator/src/zeg.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": false,
+	"side_bar_visible": true,
+	"side_bar_width": 355.0,
+	"status_bar_visible": true
+}
