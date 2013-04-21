@@ -523,7 +523,15 @@
 			"file": "Lib/Action/IndexAction.class.php",
 			"settings":
 			{
-				"buffer_size": 2597,
+				"buffer_size": 2778,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "Tpl/default/Index/gps_index.html",
+			"settings":
+			{
+				"buffer_size": 2579,
 				"line_ending": "Windows"
 			}
 		},
@@ -539,7 +547,7 @@
 			"file": "Tpl/default/Index/menu.html",
 			"settings":
 			{
-				"buffer_size": 2186,
+				"buffer_size": 2224,
 				"line_ending": "Windows"
 			}
 		},
@@ -595,7 +603,7 @@
 			"file": "Conf/config.php",
 			"settings":
 			{
-				"buffer_size": 200,
+				"buffer_size": 247,
 				"line_ending": "Unix"
 			}
 		}
@@ -777,6 +785,11 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"redirect_to_main_form",
+			"4649",
+			"lngLabel",
+			"valueLabel",
+			"gps_index",
 			"self_fired",
 			"turn_on",
 			"toggleswitc",
@@ -899,12 +912,7 @@
 			"return",
 			"pies_data_array",
 			"value",
-			"item",
-			"variable",
-			"pies_data_array",
-			"array_map",
-			"array_walk",
-			"variable"
+			"item"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -922,7 +930,7 @@
 	"groups":
 	[
 		{
-			"selected": 3,
+			"selected": 1,
 			"sheets":
 			[
 				{
@@ -930,15 +938,15 @@
 					"file": "Lib/Action/IndexAction.class.php",
 					"settings":
 					{
-						"buffer_size": 2597,
+						"buffer_size": 2778,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								739,
-								751
+								924,
+								933
 							]
 						],
 						"settings":
@@ -955,6 +963,34 @@
 				},
 				{
 					"buffer": 1,
+					"file": "Tpl/default/Index/gps_index.html",
+					"settings":
+					{
+						"buffer_size": 2579,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1718,
+								1718
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 662.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
 					"file": "index.php",
 					"settings":
 					{
@@ -980,19 +1016,19 @@
 					"type": "text"
 				},
 				{
-					"buffer": 2,
+					"buffer": 3,
 					"file": "Tpl/default/Index/menu.html",
 					"settings":
 					{
-						"buffer_size": 2186,
+						"buffer_size": 2224,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1537,
-								1537
+								1441,
+								1450
 							]
 						],
 						"settings":
@@ -1002,13 +1038,13 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 580.0,
+						"translation.y": 562.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
 				},
 				{
-					"buffer": 3,
+					"buffer": 4,
 					"file": "Tpl/default/Index/light1_index.html",
 					"settings":
 					{
@@ -1019,8 +1055,8 @@
 						"selection":
 						[
 							[
-								1212,
-								1212
+								3365,
+								3365
 							]
 						],
 						"settings":
@@ -1030,13 +1066,13 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 266.0,
+						"translation.y": 1224.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
 				},
 				{
-					"buffer": 4,
+					"buffer": 5,
 					"file": "Tpl/default/Index/UHFindex.html",
 					"settings":
 					{
@@ -1047,8 +1083,8 @@
 						"selection":
 						[
 							[
-								828,
-								838
+								629,
+								629
 							]
 						],
 						"settings":
@@ -1064,7 +1100,7 @@
 					"type": "text"
 				},
 				{
-					"buffer": 5,
+					"buffer": 6,
 					"file": "Public/tools.js",
 					"settings":
 					{
@@ -1090,7 +1126,7 @@
 					"type": "text"
 				},
 				{
-					"buffer": 6,
+					"buffer": 7,
 					"file": "Lib/Action/tools.php",
 					"settings":
 					{
@@ -1118,7 +1154,7 @@
 					"type": "text"
 				},
 				{
-					"buffer": 7,
+					"buffer": 8,
 					"file": "Tpl/default/Index/test.html",
 					"settings":
 					{
@@ -1135,16 +1171,18 @@
 						],
 						"settings":
 						{
-							"syntax": "Packages/HTML/HTML.tmLanguage"
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 211.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
 				},
 				{
-					"buffer": 8,
+					"buffer": 9,
 					"file": "Tpl/default/Index/index.html",
 					"settings":
 					{
@@ -1155,8 +1193,8 @@
 						"selection":
 						[
 							[
-								443,
-								443
+								442,
+								442
 							]
 						],
 						"settings":
@@ -1172,19 +1210,19 @@
 					"type": "text"
 				},
 				{
-					"buffer": 9,
+					"buffer": 10,
 					"file": "Conf/config.php",
 					"settings":
 					{
-						"buffer_size": 200,
+						"buffer_size": 247,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								152,
-								163
+								181,
+								181
 							]
 						],
 						"settings":
@@ -1242,8 +1280,16 @@
 		"selected_items":
 		[
 			[
+				"in",
+				"/C/program/www/IOTLab/Tpl/default/Index/index.html"
+			],
+			[
 				"",
-				"/C/program/www/IOTLab/Lib/Action/IndexAction.class.php"
+				"/C/program/www/IOTLab/index.php"
+			],
+			[
+				"me",
+				"/C/program/www/IOTLab/Tpl/default/Index/menu.html"
 			],
 			[
 				"to",
@@ -1256,10 +1302,6 @@
 			[
 				"too",
 				"/C/program/www/LogisABC/Lib/Action/tools.php"
-			],
-			[
-				"in",
-				"/C/program/www/LogisABC/Lib/Action/IndexAction.class.php"
 			],
 			[
 				"re",

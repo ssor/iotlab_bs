@@ -33,6 +33,12 @@ class IndexAction extends Action
         $this->display();
 
     }
+    public function gps_index()
+    {
+        $this->assign('ws_host', C('WS_LOCATION'));
+        $this->assign('user', Tools::get_user_data_set());
+        $this->display();
+    }
     public function checkLogin()
     {
         // {"user_name":"go","pwd":"111"}
