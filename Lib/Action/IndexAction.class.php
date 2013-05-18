@@ -26,12 +26,23 @@ class IndexAction extends Action
         $this->assign('ws_host', C('WS_LOCATION'));
         $this->display();
     }
-    public function light1_index()
+    public function green_light_index()
     {
         $this->assign('ws_host', C('WS_LOCATION'));
         $this->assign('user', Tools::get_user_data_set());
         $this->display();
-
+    }
+    public function red_light_index()
+    {
+        $this->assign('ws_host', C('WS_LOCATION'));
+        $this->assign('user', Tools::get_user_data_set());
+        $this->display();
+    }
+    public function yellow_light_index()
+    {
+        $this->assign('ws_host', C('WS_LOCATION'));
+        $this->assign('user', Tools::get_user_data_set());
+        $this->display();
     }
     public function gps_index()
     {
@@ -39,6 +50,20 @@ class IndexAction extends Action
         $this->assign('user', Tools::get_user_data_set());
         $this->display();
     }
+    public function engine_index()
+    {
+        $this->assign('ws_host', C('WS_LOCATION'));
+        $this->assign('user', Tools::get_user_data_set());
+        $this->display();
+    }
+    public function fan_index()
+    {
+        $this->assign('ws_host', C('WS_LOCATION'));
+        $this->assign('user', Tools::get_user_data_set());
+        $this->display();
+    }    
+
+
     public function checkLogin()
     {
         // {"user_name":"go","pwd":"111"}

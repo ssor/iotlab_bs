@@ -4,6 +4,18 @@
 		"selected_items":
 		[
 			[
+				"tit",
+				"title"
+			],
+			[
+				"too",
+				"Tools"
+			],
+			[
+				"var",
+				"var_dump"
+			],
+			[
 				"se",
 				"self_fired"
 			],
@@ -502,18 +514,6 @@
 			[
 				"syste",
 				"system_id"
-			],
-			[
-				"sqldel",
-				"sql_delete"
-			],
-			[
-				"le",
-				"length"
-			],
-			[
-				"act",
-				"action_code"
 			]
 		]
 	},
@@ -523,7 +523,55 @@
 			"file": "Lib/Action/IndexAction.class.php",
 			"settings":
 			{
-				"buffer_size": 2778,
+				"buffer_size": 3530,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "Lib/Action/IntroduceAction.class.php",
+			"settings":
+			{
+				"buffer_size": 1165,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "Tpl/default/Introduce/introduce_index.html",
+			"settings":
+			{
+				"buffer_size": 1697,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "Public/audiojs/index.css",
+			"settings":
+			{
+				"buffer_size": 3223,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "Public/audiojs/audio.js",
+			"settings":
+			{
+				"buffer_size": 31932,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "Tpl/default/Index/fan_index.html",
+			"settings":
+			{
+				"buffer_size": 5338,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "Tpl/default/Index/engine_index.html",
+			"settings":
+			{
+				"buffer_size": 5341,
 				"line_ending": "Windows"
 			}
 		},
@@ -547,15 +595,31 @@
 			"file": "Tpl/default/Index/menu.html",
 			"settings":
 			{
-				"buffer_size": 2224,
+				"buffer_size": 2631,
 				"line_ending": "Windows"
 			}
 		},
 		{
-			"file": "Tpl/default/Index/light1_index.html",
+			"file": "Tpl/default/Index/green_light_index.html",
 			"settings":
 			{
-				"buffer_size": 5341,
+				"buffer_size": 5334,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "Tpl/default/Index/yellow_light_index.html",
+			"settings":
+			{
+				"buffer_size": 5336,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "Tpl/default/Index/red_light_index.html",
+			"settings":
+			{
+				"buffer_size": 5330,
 				"line_ending": "Windows"
 			}
 		},
@@ -603,7 +667,7 @@
 			"file": "Conf/config.php",
 			"settings":
 			{
-				"buffer_size": 247,
+				"buffer_size": 296,
 				"line_ending": "Unix"
 			}
 		}
@@ -640,6 +704,9 @@
 	},
 	"file_history":
 	[
+		"/C/program/www/phpRest/Tpl/Mobile/index.html",
+		"/C/program/www/IOTLab/Tpl/default/Index/introduce_index.html",
+		"/C/program/www/IOTLab/Tpl/default/Index/light1_index.html",
 		"/C/program/www/IOTLab/Tpl/default/Index/mindex.html",
 		"/C/program/www/LogisABC/Tpl/default/Index/basic_principle.html",
 		"/C/program/www/LogisABC/Public/easyUI/plugins/jquery.messager.js",
@@ -764,10 +831,7 @@
 		"/D/programs/erlang/data_collector/ebin/data_collector.app",
 		"/D/programs/erlang/data_middle_ware/src/dms_sup.erl",
 		"/D/programs/erlang/data_middle_ware/src/dms_data_receiver.erl",
-		"/D/programs/erlang/data_middle_ware/src/dms_data_receiver_sup.erl",
-		"/D/programs/erlang/data_middle_ware/ebin/data_middleware.app",
-		"/D/programs/erlang/data_middle_ware/src/dms_store.erl",
-		"/D/programs/erlang/data_middle_ware/src/dms_app.erl"
+		"/D/programs/erlang/data_middle_ware/src/dms_data_receiver_sup.erl"
 	],
 	"find":
 	{
@@ -785,6 +849,11 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"title_request",
+			"image_path",
+			"h5",
+			"gray",
+			" '",
 			"redirect_to_main_form",
 			"4649",
 			"lngLabel",
@@ -907,12 +976,7 @@
 			"list_data_history",
 			"value",
 			"history",
-			"variable",
-			"history_id_array",
-			"return",
-			"pies_data_array",
-			"value",
-			"item"
+			"variable"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -938,15 +1002,15 @@
 					"file": "Lib/Action/IndexAction.class.php",
 					"settings":
 					{
-						"buffer_size": 2778,
+						"buffer_size": 3530,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								924,
-								933
+								1915,
+								1915
 							]
 						],
 						"settings":
@@ -956,13 +1020,179 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 216.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
 				},
 				{
 					"buffer": 1,
+					"file": "Lib/Action/IntroduceAction.class.php",
+					"settings":
+					{
+						"buffer_size": 1165,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								541,
+								541
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "Tpl/default/Introduce/introduce_index.html",
+					"settings":
+					{
+						"buffer_size": 1697,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1004,
+								1004
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "Public/audiojs/index.css",
+					"settings":
+					{
+						"buffer_size": 3223,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								864,
+								864
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "Public/audiojs/audio.js",
+					"settings":
+					{
+						"buffer_size": 31932,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4041,
+								4041
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1512.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "Tpl/default/Index/fan_index.html",
+					"settings":
+					{
+						"buffer_size": 5338,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								146,
+								146
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "Tpl/default/Index/engine_index.html",
+					"settings":
+					{
+						"buffer_size": 5341,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								663,
+								663
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 7,
 					"file": "Tpl/default/Index/gps_index.html",
 					"settings":
 					{
@@ -984,13 +1214,13 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 662.0,
+						"translation.y": 644.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
 				},
 				{
-					"buffer": 2,
+					"buffer": 8,
 					"file": "index.php",
 					"settings":
 					{
@@ -1001,8 +1231,8 @@
 						"selection":
 						[
 							[
-								835,
-								835
+								759,
+								759
 							]
 						],
 						"settings":
@@ -1016,19 +1246,19 @@
 					"type": "text"
 				},
 				{
-					"buffer": 3,
+					"buffer": 9,
 					"file": "Tpl/default/Index/menu.html",
 					"settings":
 					{
-						"buffer_size": 2224,
+						"buffer_size": 2631,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1441,
-								1450
+								1834,
+								1834
 							]
 						],
 						"settings":
@@ -1038,25 +1268,25 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 562.0,
+						"translation.y": 670.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
 				},
 				{
-					"buffer": 4,
-					"file": "Tpl/default/Index/light1_index.html",
+					"buffer": 10,
+					"file": "Tpl/default/Index/green_light_index.html",
 					"settings":
 					{
-						"buffer_size": 5341,
+						"buffer_size": 5334,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								3365,
-								3365
+								4301,
+								4301
 							]
 						],
 						"settings":
@@ -1066,13 +1296,69 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 1224.0,
+						"translation.y": 2094.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
 				},
 				{
-					"buffer": 5,
+					"buffer": 11,
+					"file": "Tpl/default/Index/yellow_light_index.html",
+					"settings":
+					{
+						"buffer_size": 5336,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4210,
+								4210
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 2052.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 12,
+					"file": "Tpl/default/Index/red_light_index.html",
+					"settings":
+					{
+						"buffer_size": 5330,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4266,
+								4297
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 2292.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 13,
 					"file": "Tpl/default/Index/UHFindex.html",
 					"settings":
 					{
@@ -1100,7 +1386,7 @@
 					"type": "text"
 				},
 				{
-					"buffer": 6,
+					"buffer": 14,
 					"file": "Public/tools.js",
 					"settings":
 					{
@@ -1126,7 +1412,7 @@
 					"type": "text"
 				},
 				{
-					"buffer": 7,
+					"buffer": 15,
 					"file": "Lib/Action/tools.php",
 					"settings":
 					{
@@ -1137,8 +1423,8 @@
 						"selection":
 						[
 							[
-								2803,
-								2820
+								4158,
+								4158
 							]
 						],
 						"settings":
@@ -1148,13 +1434,13 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 940.0,
+						"translation.y": 1858.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
 				},
 				{
-					"buffer": 8,
+					"buffer": 16,
 					"file": "Tpl/default/Index/test.html",
 					"settings":
 					{
@@ -1182,7 +1468,7 @@
 					"type": "text"
 				},
 				{
-					"buffer": 9,
+					"buffer": 17,
 					"file": "Tpl/default/Index/index.html",
 					"settings":
 					{
@@ -1210,19 +1496,19 @@
 					"type": "text"
 				},
 				{
-					"buffer": 10,
+					"buffer": 18,
 					"file": "Conf/config.php",
 					"settings":
 					{
-						"buffer_size": 247,
+						"buffer_size": 296,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								181,
-								181
+								141,
+								141
 							]
 						],
 						"settings":
@@ -1490,6 +1776,6 @@
 	"show_open_files": true,
 	"show_tabs": false,
 	"side_bar_visible": true,
-	"side_bar_width": 355.0,
+	"side_bar_width": 268.0,
 	"status_bar_visible": true
 }
