@@ -4,6 +4,18 @@
 		"selected_items":
 		[
 			[
+				"red",
+				"red_light"
+			],
+			[
+				"yel",
+				"yellow_light"
+			],
+			[
+				"gr",
+				"green_light"
+			],
+			[
 				"tit",
 				"title"
 			],
@@ -476,10 +488,6 @@
 				"text"
 			],
 			[
-				"gr",
-				"group"
-			],
-			[
 				"pa",
 				"padding-bottom"
 			],
@@ -506,14 +514,6 @@
 			[
 				"bo",
 				"border"
-			],
-			[
-				"na",
-				"nav-command_button"
-			],
-			[
-				"syste",
-				"system_id"
 			]
 		]
 	},
@@ -563,7 +563,7 @@
 			"file": "Tpl/default/Index/fan_index.html",
 			"settings":
 			{
-				"buffer_size": 5338,
+				"buffer_size": 5452,
 				"line_ending": "Windows"
 			}
 		},
@@ -571,7 +571,7 @@
 			"file": "Tpl/default/Index/engine_index.html",
 			"settings":
 			{
-				"buffer_size": 5341,
+				"buffer_size": 5461,
 				"line_ending": "Windows"
 			}
 		},
@@ -603,7 +603,7 @@
 			"file": "Tpl/default/Index/green_light_index.html",
 			"settings":
 			{
-				"buffer_size": 5334,
+				"buffer_size": 5464,
 				"line_ending": "Windows"
 			}
 		},
@@ -611,7 +611,7 @@
 			"file": "Tpl/default/Index/yellow_light_index.html",
 			"settings":
 			{
-				"buffer_size": 5336,
+				"buffer_size": 5468,
 				"line_ending": "Windows"
 			}
 		},
@@ -619,7 +619,7 @@
 			"file": "Tpl/default/Index/red_light_index.html",
 			"settings":
 			{
-				"buffer_size": 5330,
+				"buffer_size": 5456,
 				"line_ending": "Windows"
 			}
 		},
@@ -994,7 +994,7 @@
 	"groups":
 	[
 		{
-			"selected": 15,
+			"selected": 12,
 			"sheets":
 			[
 				{
@@ -1140,15 +1140,15 @@
 					"file": "Tpl/default/Index/fan_index.html",
 					"settings":
 					{
-						"buffer_size": 5338,
+						"buffer_size": 5452,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								146,
-								146
+								2651,
+								2651
 							]
 						],
 						"settings":
@@ -1158,7 +1158,7 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 864.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -1168,15 +1168,15 @@
 					"file": "Tpl/default/Index/engine_index.html",
 					"settings":
 					{
-						"buffer_size": 5341,
+						"buffer_size": 5461,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								663,
-								663
+								2657,
+								2657
 							]
 						],
 						"settings":
@@ -1186,7 +1186,7 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 918.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -1203,8 +1203,8 @@
 						"selection":
 						[
 							[
-								1718,
-								1718
+								1289,
+								1289
 							]
 						],
 						"settings":
@@ -1214,7 +1214,7 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 644.0,
+						"translation.y": 374.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -1268,7 +1268,7 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 670.0,
+						"translation.y": 238.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -1278,15 +1278,15 @@
 					"file": "Tpl/default/Index/green_light_index.html",
 					"settings":
 					{
-						"buffer_size": 5334,
+						"buffer_size": 5464,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								4301,
-								4301
+								2412,
+								2412
 							]
 						],
 						"settings":
@@ -1296,7 +1296,7 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 2094.0,
+						"translation.y": 834.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -1306,15 +1306,15 @@
 					"file": "Tpl/default/Index/yellow_light_index.html",
 					"settings":
 					{
-						"buffer_size": 5336,
+						"buffer_size": 5468,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								4210,
-								4210
+								2436,
+								2436
 							]
 						],
 						"settings":
@@ -1324,7 +1324,7 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 2052.0,
+						"translation.y": 684.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -1334,15 +1334,15 @@
 					"file": "Tpl/default/Index/red_light_index.html",
 					"settings":
 					{
-						"buffer_size": 5330,
+						"buffer_size": 5456,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								4266,
-								4297
+								2768,
+								2768
 							]
 						],
 						"settings":
@@ -1352,7 +1352,7 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 2292.0,
+						"translation.y": 888.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -1369,8 +1369,8 @@
 						"selection":
 						[
 							[
-								629,
-								629
+								1144,
+								1144
 							]
 						],
 						"settings":
@@ -1380,7 +1380,7 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 162.0,
+						"translation.y": 486.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -1507,8 +1507,8 @@
 						"selection":
 						[
 							[
-								295,
-								295
+								233,
+								233
 							]
 						],
 						"settings":
