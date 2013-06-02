@@ -60,11 +60,13 @@
                 // alert('close ' + toggle[0].selectedIndex);
                 data.Name = 'close';
                 data.Commander = '{$user}';
+                data.TargetDevice = 'red_light';
             }
             else{
                 // alert('open ' + toggle[0].selectedIndex);
                 data.Name = 'open';
                 data.Commander = '{$user}';
+                data.TargetDevice = 'red_light';
                 // turn_on();
             }
             send_msg(data);
@@ -102,6 +104,7 @@
 
             ws.onclose = function() {
                 valueLabel.innerHTML = "服务器已关闭";
+                turn_off();
 
             };
 

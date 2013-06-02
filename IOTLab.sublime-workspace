@@ -667,7 +667,7 @@
 			"file": "Conf/config.php",
 			"settings":
 			{
-				"buffer_size": 296,
+				"buffer_size": 295,
 				"line_ending": "Unix"
 			}
 		}
@@ -704,6 +704,7 @@
 	},
 	"file_history":
 	[
+		"/C/program/csharp/outputIOTConfig/outputIOTConfig/bin/Debug/config.php",
 		"/C/program/www/phpRest/Tpl/Mobile/index.html",
 		"/C/program/www/IOTLab/Tpl/default/Index/introduce_index.html",
 		"/C/program/www/IOTLab/Tpl/default/Index/light1_index.html",
@@ -830,8 +831,7 @@
 		"/D/programs/erlang/udp_transfer/ebin/udp_transfer.app",
 		"/D/programs/erlang/data_collector/ebin/data_collector.app",
 		"/D/programs/erlang/data_middle_ware/src/dms_sup.erl",
-		"/D/programs/erlang/data_middle_ware/src/dms_data_receiver.erl",
-		"/D/programs/erlang/data_middle_ware/src/dms_data_receiver_sup.erl"
+		"/D/programs/erlang/data_middle_ware/src/dms_data_receiver.erl"
 	],
 	"find":
 	{
@@ -994,7 +994,7 @@
 	"groups":
 	[
 		{
-			"selected": 1,
+			"selected": 15,
 			"sheets":
 			[
 				{
@@ -1037,8 +1037,8 @@
 						"selection":
 						[
 							[
-								541,
-								541
+								806,
+								806
 							]
 						],
 						"settings":
@@ -1048,7 +1048,7 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 144.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -1434,7 +1434,7 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 1858.0,
+						"translation.y": 292.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -1490,7 +1490,7 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 1458.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -1500,15 +1500,15 @@
 					"file": "Conf/config.php",
 					"settings":
 					{
-						"buffer_size": 296,
+						"buffer_size": 295,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								141,
-								141
+								295,
+								295
 							]
 						],
 						"settings":
