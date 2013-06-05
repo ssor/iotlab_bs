@@ -579,7 +579,7 @@
 			"file": "Tpl/default/Index/gps_index.html",
 			"settings":
 			{
-				"buffer_size": 2579,
+				"buffer_size": 2629,
 				"line_ending": "Windows"
 			}
 		},
@@ -627,7 +627,7 @@
 			"file": "Tpl/default/Index/UHFindex.html",
 			"settings":
 			{
-				"buffer_size": 2069,
+				"buffer_size": 2200,
 				"line_ending": "Windows"
 			}
 		},
@@ -667,7 +667,7 @@
 			"file": "Conf/config.php",
 			"settings":
 			{
-				"buffer_size": 295,
+				"buffer_size": 296,
 				"line_ending": "Unix"
 			}
 		}
@@ -704,6 +704,8 @@
 	},
 	"file_history":
 	[
+		"/C/Users/ssor/AppData/Local/Temp/360zip$Temp/360$1/health_mesh_config.xml",
+		"/C/Users/ssor/AppData/Local/Temp/360zip$Temp/360$2/eS2000_Weather_ET22_v6.xml",
 		"/C/program/csharp/outputIOTConfig/outputIOTConfig/bin/Debug/config.php",
 		"/C/program/www/phpRest/Tpl/Mobile/index.html",
 		"/C/program/www/IOTLab/Tpl/default/Index/introduce_index.html",
@@ -829,9 +831,7 @@
 		"/D/programs/erlang/udp_transfer/src/udp_transfer.erl",
 		"/D/programs/erlang/udp_transfer/src/dc_client_mng.erl",
 		"/D/programs/erlang/udp_transfer/ebin/udp_transfer.app",
-		"/D/programs/erlang/data_collector/ebin/data_collector.app",
-		"/D/programs/erlang/data_middle_ware/src/dms_sup.erl",
-		"/D/programs/erlang/data_middle_ware/src/dms_data_receiver.erl"
+		"/D/programs/erlang/data_collector/ebin/data_collector.app"
 	],
 	"find":
 	{
@@ -994,7 +994,7 @@
 	"groups":
 	[
 		{
-			"selected": 12,
+			"selected": 13,
 			"sheets":
 			[
 				{
@@ -1175,8 +1175,8 @@
 						"selection":
 						[
 							[
-								2657,
-								2657
+								2392,
+								2392
 							]
 						],
 						"settings":
@@ -1186,7 +1186,7 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 918.0,
+						"translation.y": 522.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -1196,15 +1196,15 @@
 					"file": "Tpl/default/Index/gps_index.html",
 					"settings":
 					{
-						"buffer_size": 2579,
+						"buffer_size": 2629,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1289,
-								1289
+								440,
+								440
 							]
 						],
 						"settings":
@@ -1214,7 +1214,7 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 374.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -1341,8 +1341,8 @@
 						"selection":
 						[
 							[
-								2768,
-								2768
+								727,
+								727
 							]
 						],
 						"settings":
@@ -1352,7 +1352,7 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 888.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -1362,15 +1362,15 @@
 					"file": "Tpl/default/Index/UHFindex.html",
 					"settings":
 					{
-						"buffer_size": 2069,
+						"buffer_size": 2200,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1144,
-								1144
+								1191,
+								1191
 							]
 						],
 						"settings":
@@ -1380,7 +1380,7 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 486.0,
+						"translation.y": 270.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -1500,15 +1500,15 @@
 					"file": "Conf/config.php",
 					"settings":
 					{
-						"buffer_size": 295,
+						"buffer_size": 296,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								233,
-								233
+								231,
+								231
 							]
 						],
 						"settings":

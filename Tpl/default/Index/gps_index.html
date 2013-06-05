@@ -34,7 +34,8 @@
                     "{$ws_host}/gps");
 
             ws.onmessage = function(evt) {
-                var latlng = $.evalJSON(evt.data);
+                var data = $.evalJSON(evt.data);
+                var latlng = $.evalJSON(data.Para);
                 latLabel.innerHTML = "纬度：" + latlng.Lat;
                 lngLabel.innerHTML = "经度：" + latlng.Lng;
 
