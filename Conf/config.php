@@ -6,7 +6,7 @@ return array(
 	'DB_NAME'=>'test.db3',
 	'WS_LOCATION' => 'ws://111.67.197.251:4649'
 	// 'WS_LOCATION' => 'ws://192.168.1.100:4649'
-	// 'WS_LOCATION' => 'ws://192.168.248.97:4649'
+	// 'WS_LOCATION' => 'ws://192.168.248.22:4649'
 
 );
 ?>
